@@ -1,1 +1,1 @@
-My second readme
+I have started coding. thanx to alx
